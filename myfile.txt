@@ -11,3 +11,5 @@ Angular
 Typescript
 Pyspark
 Nodejs
+Html
+Css
