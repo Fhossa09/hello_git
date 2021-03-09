@@ -7,4 +7,6 @@ Jenkins
 Docker
 Javascript
 React
+Angular
+Typescript
 Pyspark
