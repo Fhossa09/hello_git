@@ -1,8 +1,6 @@
 Python
 AWS
 Django
-sdfs
-sdfs
 Git
 unittest
 Jenkins
