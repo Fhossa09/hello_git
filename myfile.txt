@@ -5,3 +5,5 @@ Git
 unittest
 Jenkins
 Docker
+Javascript
+React
